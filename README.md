@@ -41,7 +41,7 @@ Poupança → rendimento de 3% Renda fixa → rendimento de 5%
 Demais tipos de investimento não serão considerados.
 
 
-Exercício 3a 
+Exercício 3a
 
 Fazer um algoritmo que tenha uma função que receba um valor inteiro como parâmetro e retorne seu fatorial. O main deve solicitar ao usuário um valor, chamar a função, receber a saída da função em uma variável e exibir o resultado. 
 
