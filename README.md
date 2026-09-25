@@ -47,4 +47,4 @@ Fazer um algoritmo que tenha uma função que receba um valor inteiro como parâ
 
 Exercício 3(b)
 
-Modificar o exercício 3a e criar uma função que receba 2 parâmetros inteiros e retorne a divisão do primeiro pelo segundo. O main deve solicitar o valor de N e usar as funções para calcular e exibir 1 + 1/1! + 1/2! + ... + 1/N!
+Modificar o exercício 3(a) e criar uma função que receba 2 parâmetros inteiros e retorne a divisão do primeiro pelo segundo. O main deve solicitar o valor de N e usar as funções para calcular e exibir 1 + 1/1! + 1/2! + ... + 1/N!
