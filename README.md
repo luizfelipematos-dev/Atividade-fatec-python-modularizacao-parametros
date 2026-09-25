@@ -41,10 +41,10 @@ Poupança → rendimento de 3% Renda fixa → rendimento de 5%
 Demais tipos de investimento não serão considerados.
 
 
-Exercício 3a
+Exercício 3A
 
 Fazer um algoritmo que tenha uma função que receba um valor inteiro como parâmetro e retorne seu fatorial. O main deve solicitar ao usuário um valor, chamar a função, receber a saída da função em uma variável e exibir o resultado. 
 
-Exercício 3b
+Exercício 3B
 
 Modificar o exercício 3a e criar uma função que receba 2 parâmetros inteiros e retorne a divisão do primeiro pelo segundo. O main deve solicitar o valor de N e usar as funções para calcular e exibir 1 + 1/1! + 1/2! + ... + 1/N!
